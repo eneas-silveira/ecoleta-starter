@@ -36,6 +36,12 @@ $ git clone https://github.com/eneas-hsn/NLW-STARTER-ECOLETA
 #entrando no diretório
 $ cd NLW-STARTER-ECOLETA
 
+#baixar todas as dependencias presentes no arquivo package.json
+$ npm install express 
+$ npm install nodemon
+$ npm install nunjucks
+$ npm install sqlite3
+
 #iniciar o projeto via localhost
 $ npm start
 ```
