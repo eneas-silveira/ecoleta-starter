@@ -31,12 +31,12 @@ O projeto foi desenvolvido utilizando as seguntes tecnologias:
 ## Como baixar o projeto
 ```bash
 #clonando o repositório
-$ git clone https://github.com/eneas-hsn/NLW-STARTER-ECOLETA
+$ git clone https://github.com/eneas-silveira/ecoleta-starter.git
 
 #entrando no diretório
-$ cd NLW-STARTER-ECOLETA
+$ cd ecoleta-starter
 
-#baixar todas as dependencias presentes no arquivo package.json
+#baixar todas as dependencias presentes no arquivo package.json (devem ser baixadas no seu user globalmente)
 $ npm install express 
 $ npm install nodemon
 $ npm install nunjucks
